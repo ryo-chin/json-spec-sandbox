@@ -1,1 +1,1 @@
-Sandbox for Consumer-Driven Contracts Tool.
+Sandbox for [json-spec](https://github.com/kawasima/json-spec).
